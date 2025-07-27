@@ -1,6 +1,8 @@
 
-from pyrogram import Client, filters
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputFile
+#from pyrogram import Client, filters
+#from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputFile
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram import InputFile
 
 API_ID = 22007191
 API_HASH = "00d245870a4a90186925b6985fea0e81"
