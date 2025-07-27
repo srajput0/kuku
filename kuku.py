@@ -38,7 +38,7 @@ async def start(client, message):
     ])
 
     await message.reply_photo(
-        photo="https://yourserver.com/kukufm_banner.jpg",
+        photo="https://i.ibb.co/DggK7B5h/x.jpg",
         caption=(
             "**🎧 Welcome to KukuFM Premium Bot!**\n\n"
             "Enjoy unlimited access to Audiobooks, Courses, and Podcasts.\n\n"
